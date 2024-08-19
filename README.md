@@ -1,11 +1,9 @@
 # Project
 
 1.)Red_Bus:
-Using selenium to collect datas from the red bus site and storing it in a database(in this case a sqlite3 database) and using streamlit to create a page that can be use to filter the extracted datas in the required format by using the given filters.
 
-
-2.)DataSparks:
-To clean the datas and use power bi to create dashboard.
-
-3.)Filedownloadfrompubmed:
-This project downloads the free and downloadable files from the pubmed website and stores them in the mentioned folder. 
+•	This project focuses on automating the collection, analysis, and visualization of bus travel data from the Redbus website using Selenium. 
+•	The data, which includes bus routes, schedules, prices, and seat availability, is stored in a SQL database and presented through an interactive Streamlit     
+  application. 
+•	The project aims to enhance business operations by providing real-time data for travel aggregators, market analysis, and competitor comparisons.
+• Key metrics include data scraping accuracy, database design, application usability, and filter functionality.
